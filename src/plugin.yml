@@ -1,0 +1,12 @@
+name: NovaBedRock
+main: NovaBedRock.Main
+version: "1.0"
+author: JohnnyPlayy
+
+commands:
+  pickaxe:
+    usage: /pickaxe
+
+permissions:
+    NovaBedRock.User:
+        default: op
